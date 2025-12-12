@@ -51,7 +51,7 @@ $totalBayar = $totalBelanja - $diskon;
 
     <div class="text-right">
         <p>Selamat datang, <b>admin!</b></p>
-        <p class="text-sm text-gray-500 -mt-1">Role: Mahasiswa</p>
+        <p class="text-sm text-gray-500 -mt-1">Role: IRHA</p>
         <a href="logout.php" class="bg-gray-200 px-4 py-1 rounded-lg text-sm">Logout</a>
     </div>
 </div>
@@ -124,7 +124,7 @@ $totalBayar = $totalBelanja - $diskon;
         </tfoot>
     </table>
 
-    <button class="mt-5 bg-blue-500 text-white px-5 py-2 rounded-lg">
+    <button class="mt-5 bg-red-500 text-white px-5 py-2 rounded-lg">
         Kosongkan Keranjang
     </button>
 

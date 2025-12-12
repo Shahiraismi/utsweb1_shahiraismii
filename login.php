@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <title>Login - POLGAN MART</title>
     <style>
-        body { font-family: Arial; background: #f0f0f0; }
+        body { font-family: Arial; background: #7d3e3eff; }
         .login-box {
             width: 300px; margin: 100px auto; padding: 20px;
             background: white; border-radius: 8px; box-shadow: 0 0 5px gray;
